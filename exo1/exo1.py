@@ -8,3 +8,4 @@ A new item can be created with Item(price, weight)
 Example of code using the class: i = Item(10, 20)
 """
 import numpy as np
+import numpy
